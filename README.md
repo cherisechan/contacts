@@ -1,16 +1,14 @@
 # 📇 Contacts App
 
-A responsive React application that displays a list of contacts fetched from a public API. Built using **React**, **Vite**, and **Tailwind CSS**.
+A responsive React application that displays a list of contacts fetched from a public API. Built using **React**, and **Tailwind CSS**.
 
 ---
 
-## ✨ Features
+## ✨ Introduction
 
 - Fetches contacts from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users)
 - Responsive layout for desktop and mobile
 - Styled with Tailwind CSS
-- Modular and clean component structure
-- Read-only (no Create/Update/Delete)
 
 ---
 
